@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: BuildReferenceImageLibrary 1
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4872187587374181421
+  m_GuidHigh: 12100822457085826724
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5351104032293136239
+      m_GuidHigh: 7641952726852884888
+    m_SerializedTextureGuid:
+      m_GuidLow: 17673441531883355576
+      m_GuidHigh: 15039013768469510443
+    m_Size: {x: 0.45, y: 0.45}
+    m_SpecifySize: 1
+    m_Name: Dock_marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5677188954571549622
+      m_GuidHigh: 1539643449593151877
+    m_SerializedTextureGuid:
+      m_GuidLow: 6157565027477122168
+      m_GuidHigh: 4161582364949108650
+    m_Size: {x: 0.45, y: 0.45}
+    m_SpecifySize: 1
+    m_Name: Dragon_M
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5462663048847158100
+      m_GuidHigh: 10869071019364361631
+    m_SerializedTextureGuid:
+      m_GuidLow: 14728068486826595273
+      m_GuidHigh: 12307051598091530107
+    m_Size: {x: 0.45, y: 0.45}
+    m_SpecifySize: 1
+    m_Name: Rabbit_Marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5386482086101809839
+      m_GuidHigh: 3533968043671965069
+    m_SerializedTextureGuid:
+      m_GuidLow: 5464203544675940760
+      m_GuidHigh: 12569818939503591338
+    m_Size: {x: 0.9, y: 0.5003763}
+    m_SpecifySize: 1
+    m_Name: Calling_Card
+    m_Texture: {fileID: 0}
